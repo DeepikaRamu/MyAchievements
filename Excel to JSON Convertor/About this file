@@ -1,0 +1,3 @@
+This tool will generate JSON according to the data provided in the Sheet 1.
+Also JSON file will be generated and stored into the user's default system path.
+Each time the JSON file name will be saved with the unique format 'dd-mm-yyyy ss' (which is current date,month, year, and second).
